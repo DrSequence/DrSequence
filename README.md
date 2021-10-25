@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @IliaEre
+- 👋 Hi, I’m @IliaEre. Lead software engineer.
+- 🤝 I have code samples here.
 - 👀 I’m interested in Java/Kotlin/Go/Python
-- 🌱 I’m currently learning Go, AWS.
+- 🌱 I’m currently learning AWS and GCP.
 - 📫 How to reach me [linkedIn]()
 
 <!---
