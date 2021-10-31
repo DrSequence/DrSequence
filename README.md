@@ -2,7 +2,7 @@
 - 🤝 I have code samples here.
 - 👀 I’m interested in Java/Kotlin/Go/Python
 - 🌱 I’m currently learning AWS and GCP.
-- 📫 How to reach me [linkedIn]()
+- 📫 How to reach me [linkedIn]() (hehe...here I should use todo tag =D)
 
 <!---
 IliaEre/IliaEre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
