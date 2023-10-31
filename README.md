@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ilia Ere, a Lead Software Engineer.
+### Hi there 👋, I'm Ilia, a Lead Software Engineer.
 
 - 🔭 I have code samples here with Kotlin and Spring Framework.
 - 🌱 I’m currently learning AWS and Rust.
