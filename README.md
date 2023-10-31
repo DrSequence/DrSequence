@@ -9,8 +9,10 @@
 - [medium](https://hackernoon.com/u/lookingforere)  
 - [leetcode](https://leetcode.com/SomeEPersonLikeMe/)  
 
-My public contests:
-1) load testing [github](https://github.com/IliaEre/load-test-contest) [medium](https://lookingforere.medium.com/fast-load-testing-with-yandextank-and-ghz-77157bf4a779)
+My public contests:  
+1) load testing - using ghz and yandex tank for load testing
+[github](https://github.com/IliaEre/load-test-contest) 
+[medium](https://lookingforere.medium.com/fast-load-testing-with-yandextank-and-ghz-77157bf4a779)
 2) serialisation: to be soon ...
 3) opentelemetry: to be soon ...
 4) golang and tests containers: to be soon ...
