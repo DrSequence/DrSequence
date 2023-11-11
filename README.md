@@ -15,6 +15,7 @@
 1) **Load Testing** - Using ghz and Yandex Tank for load testing
 - [GitHub](https://github.com/IliaEre/load-test-contest)
 - [Medium Article](https://lookingforere.medium.com/fast-load-testing-with-yandextank-and-ghz-77157bf4a779)
+- [Hackernoon](https://hackernoon.com/just-go-ahead-and-test-your-project-part-1)
 
 2) **Serialization** - *To be added soon...*
 3) **OpenTelemetry** - *To be added soon...*
