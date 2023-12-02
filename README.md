@@ -19,6 +19,10 @@
 2) **Test your project!** - mock, sonar, e2e 
 - [Medium](https://lookingforere.medium.com/just-test-your-project-part-1-da33a8b823b4)
 - [Hackernoon](https://hackernoon.com/just-go-ahead-and-test-your-project-part-1)
-3) **Serialization** - *To be added soon...*
+3) **Serialization** - JSON/proto/flatbuffer
+- [GitHub](https://github.com/IliaEre/serialisation-contest)
+- [Medium](https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c)
+- [Hackernoon (not yet!)]()
+
 4) **OpenTelemetry** - *To be added soon...*
 5) **Golang and Tests Containers** - *To be added soon...*
