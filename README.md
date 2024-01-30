@@ -16,7 +16,4 @@
 4) **Serialization** - JSON/proto/flatbuffer  
 [GitHub](https://github.com/IliaEre/serialisation-contest) [Medium](https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c) [Hackernoon](https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage)
 
-5) **OpenTelemetry** - *To be added soon...*
-6) **Golang and Tests Containers** - *To be added soon...*
-7) **Cache integration** *To be added soon...*
-8) **Outbox** *To be added soon...*
+5) **Golang and Tests Containers** - *To be added soon...*
