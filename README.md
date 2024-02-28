@@ -1,10 +1,14 @@
 ### Hi there 👋, I'm Ilia, Lead Software Engineer.
 
-- 🔭 I have code samples here with Kotlin and Spring Framework.
-- 🌱 I’m currently learning AWS and Rust.
+- 🔭 I have useful examples and contest here about development and tests.
+- 🌱 I’m currently learning AWS.
 - 👀 I’m interested in JVM, Go, and a bit of Python.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ilia-iv-er/) [Hackernoon](https://hackernoon.com/u/lookingforere) [Medium](https://hackernoon.com/u/lookingforere) [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/ilia-iv-er/)
+- [Hackernoon](https://hackernoon.com/u/lookingforere)
+- [Medium](https://hackernoon.com/u/lookingforere)
+- [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
 
 ### My Public Contests:
 
@@ -19,3 +23,7 @@
 [GitHub](https://github.com/IliaEre/testcontainer-contest?source=post_page-----d30a50e11292--------------------------------)  
 [Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292)  
 big article soon...[HackerNoon]()
+
+6) **Outbox**
+7) **Tracing**
+8) **Caching**
