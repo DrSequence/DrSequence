@@ -21,8 +21,8 @@
 [GitHub](https://github.com/IliaEre/serialisation-contest) [Medium](https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c) [Hackernoon](https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage)
 5) **Golang and Tests Containers** - testcontainers-go and mongoDB  
 [GitHub](https://github.com/IliaEre/testcontainer-contest?source=post_page-----d30a50e11292--------------------------------)  
-[Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292)  
-big article soon...[HackerNoon]()
+[Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292)
+[HackerNoon](https://app.hackernoon.com/stats/express-setup-golang-and-testcontainers-unwrapped)
 
 6) **Outbox**
 7) **Tracing**
