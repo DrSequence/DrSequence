@@ -16,7 +16,7 @@
 **2024**
 | Title               | Link                            |
 |---------------------|---------------------------------|
-| Golang and Testcontainers   | [GitHub](https://github.com/IliaEre/testcontainer-contest) [Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) [Hackernoon](https://app.hackernoon.com/stats/express-setup-golang-and-testcontainers-unwrapped)     |
+| Golang and Testcontainers   | [GitHub](https://github.com/IliaEre/testcontainer-contest) [Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) [Hackernoon](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped)     |
 
 **2023:**
 
