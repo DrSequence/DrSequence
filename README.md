@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ilia, Lead Software Engineer.
 
-- 🔭 I have useful examples and contest here about development and tests.
+- 🔭 I have useful examples and contests here about development and tests.
 - 🌱 I’m currently learning AWS.
 - 👀 I’m interested in JVM, Go, and a bit of Python.
 
@@ -9,14 +9,16 @@
 - [Hackernoon](https://hackernoon.com/u/lookingforere)
 - [Medium](https://hackernoon.com/u/lookingforere)
 - [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
-
-
+  
 ### My Public Contests:
+
+🎦 RU [Techtrain 2024. Effective load testing with Yandex.Tank](https://techtrain.ru/talks/0f2d4a166d0d45b4a12f2f4aaafcb9d4)
 
 **2024**
 | Title               | Link                            |
 |---------------------|---------------------------------|
 | Golang and Testcontainers   | [GitHub](https://github.com/IliaEre/testcontainer-contest) [Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) [Hackernoon](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped)     |
+| Outbox and ACID   | [GitHub](https://github.com/IliaEre/outbox-contest)[Hackernoon](https://hackernoon.com/unlocking-microservices-reliability-with-acid-and-the-outbox-pattern)     |
 
 **2023:**
 
