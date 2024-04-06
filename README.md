@@ -18,7 +18,7 @@
 | Title               | Link                            |
 |---------------------|---------------------------------|
 | Golang and Testcontainers   | [GitHub](https://github.com/IliaEre/testcontainer-contest) [Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) [Hackernoon](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped)     |
-| Outbox and ACID   | [GitHub](https://github.com/IliaEre/outbox-contest)[Hackernoon](https://hackernoon.com/unlocking-microservices-reliability-with-acid-and-the-outbox-pattern)     |
+| Outbox and ACID   | [GitHub](https://github.com/IliaEre/outbox-contest) [Hackernoon](https://hackernoon.com/unlocking-microservices-reliability-with-acid-and-the-outbox-pattern)     |
 
 **2023:**
 
