@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ilia-iv-er/)
-- [Hackernoon](https://hackernoon.com/u/lookingforere)
+- [Hackernoon](https://hackernoon.com/u/mrdrseq)
 - [Medium](https://medium.com/@msdrsequence)
 - [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
   
