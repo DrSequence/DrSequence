@@ -7,7 +7,7 @@
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ilia-iv-er/)
 - [Hackernoon](https://hackernoon.com/u/lookingforere)
-- [Medium](https://hackernoon.com/u/lookingforere)
+- [Medium](https://medium.com/@msdrsequence)
 - [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
   
 ### My Public Contests:
