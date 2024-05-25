@@ -2,13 +2,20 @@
 
 - 🔭 I have useful examples and contests here about development and tests.
 - 🌱 I’m currently learning AWS.
-- 👀 I’m interested in JVM, Go, and a bit of Python.
+- 👀 I’m interested in JVM, Golang.
+- Lead own mentoring projects here [link](https://github.com/cranes-mentoring)
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/ilia-iv-er/)
 - [Hackernoon](https://hackernoon.com/u/mrdrseq)
 - [Medium](https://medium.com/@msdrsequence)
 - [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
+
+    
+---
+👨‍🎓 I'm a mentor. You can make an appointment on [ADPlist](https://adplist.org/mentors/ilya-ivankin).
+
+---
   
 ### My Public Contests:
 
