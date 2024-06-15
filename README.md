@@ -10,6 +10,7 @@
 - [Hackernoon](https://hackernoon.com/u/mrdrseq)
 - [Medium](https://medium.com/@msdrsequence)
 - [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
+- [DZone](https://dzone.com/users/5146776/crns.html)
 
     
 ---
@@ -24,8 +25,9 @@
 **2024**
 | Title               | Link                            |
 |---------------------|---------------------------------|
+| Spec first principal   |  👨‍🎓[Hackernoon](https://hackernoon.com/boosting-development-efficiency-with-the-specification-first-principle) 🔭[DZone](https://dzone.com/articles/boost-efficiency-with-specification-first-principle) |
 | Kafka streams for simple merging   | 💻[GitHub](https://github.com/DrSequence/kstreams-contest) 👨‍🎓[Hackernoon](https://app.hackernoon.com/stats/real-time-tricks-harnessing-kafka-streams-for-seamless-data-tasks)  |
-| Golang and Testcontainers   | 💻[GitHub](https://github.com/IliaEre/testcontainer-contest) 📑[Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) 👨‍🎓[Hackernoon](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped)     |
+| Golang and Testcontainers   | 💻[GitHub](https://github.com/IliaEre/testcontainer-contest) 📑[Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) 👨‍🎓[Hackernoon](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped) 🔭[DZone](https://dzone.com/articles/fast-setup-golang-and-testcontainers)    |
 | Outbox and ACID   | 💻[GitHub](https://github.com/IliaEre/outbox-contest) 👨‍🎓[Hackernoon](https://hackernoon.com/unlocking-microservices-reliability-with-acid-and-the-outbox-pattern)     |
 
 **2023:**
