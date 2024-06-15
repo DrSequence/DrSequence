@@ -39,7 +39,6 @@
 | Pandora with Yandex.Tank     | 📑[Medium](https://medium.com/@lookingforere/yandex-pandora-performance-testing-unleashing-versatility-like-a-swiss-army-knife-12c250f2bff2) 👨‍🎓[Hackenoon](https://hackernoon.com/leveraging-yandex-pandora-stress-testing-grpc-and-flatbuffer-services)     |
 | Test your project!      | 📑[Medium](https://lookingforere.medium.com/just-test-your-project-part-1-da33a8b823b4) 👨‍🎓[Hackernoon](https://hackernoon.com/just-go-ahead-and-test-your-project-part-1)        |
 | Serialization with gRpc and Ftatbuffer  | 💻[GitHub](https://github.com/IliaEre/serialisation-contest) 📑[Medium](https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c) 👨‍🎓[Hackernoon](https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage)       |
-| Golang and Testcontainers   | 💻[GitHub](https://github.com/IliaEre/testcontainer-contest) 📑[Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) 👨‍🎓[Hackernoon](https://app.hackernoon.com/stats/express-setup-golang-and-testcontainers-unwrapped)     |
 
 
 ### Articles soon:
