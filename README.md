@@ -5,12 +5,12 @@
 - 👀 I’m interested in JVM, Golang.
 - Lead own mentoring projects here [link](https://github.com/cranes-mentoring)
 
+---
+
 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/ilia-iv-er/)
-- [Hackernoon](https://hackernoon.com/u/mrdrseq)
-- [Medium](https://medium.com/@msdrsequence)
-- [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
-- [DZone](https://dzone.com/users/5146776/crns.html)
+👀[LinkedIn](https://www.linkedin.com/in/ilia-iv-er/) 👨‍🎓[Hackernoon](https://hackernoon.com/u/mrdrseq) 📑[Medium](https://medium.com/@msdrsequence)
+🌱 [LeetCode](https://leetcode.com/SomeEPersonLikeMe/)
+  🔭 [DZone](https://dzone.com/users/5146776/crns.html)
 
     
 ---
