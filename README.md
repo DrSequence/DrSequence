@@ -20,7 +20,7 @@
   
 ### My Public Contests:
 
-👨‍🎓 ENG (soon) [Go Lang workshop, developers lab, ME]()  
+👨‍🎓 ENG [Go Lang workshop, developers lab, ME]()  
 🎦 RU [Techtrain 2024. Effective load testing with Yandex.Tank](https://techtrain.ru/talks/0f2d4a166d0d45b4a12f2f4aaafcb9d4)
 
 **2024**
