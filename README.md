@@ -41,6 +41,17 @@
 | Test your project!      | 📑[Medium](https://lookingforere.medium.com/just-test-your-project-part-1-da33a8b823b4) 👨‍🎓[Hackernoon](https://hackernoon.com/just-go-ahead-and-test-your-project-part-1)        |
 | Serialization with gRpc and Flatbuffer  | 💻[GitHub](https://github.com/IliaEre/serialisation-contest) 📑[Medium](https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c) 👨‍🎓[Hackernoon](https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage)       |
 
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg" width="36" height="36" alt="Redis" /></a>
+<a href="http://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="36" height="36" alt="Postgres" /></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="36" height="36" alt="AWS" /></a>
+</p>
 
 ### Articles soon:
 **Caching**
