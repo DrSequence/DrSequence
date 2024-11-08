@@ -26,6 +26,7 @@
 **2024**
 | Title               | Link                            |
 |---------------------|---------------------------------|
+| Choosing the Right Caching Strategy   | 💻[GitHub](https://github.com/cranes-mentoring/cache-contest)  |
 | Golang workshop, building TODO-service   |  👨‍🎓[Hackernoon](https://hackernoon.com/how-to-build-your-own-todo-list-service-with-golang-and-mongodb) 💻[GitHub](https://github.com/cranes-mentoring/golang-workshop) 🔭[DZone](https://dzone.com/articles/build-a-to-do-list-with-mongodb-and-golang)|
 | Spec first principles   |  👨‍🎓[Hackernoon](https://hackernoon.com/boosting-development-efficiency-with-the-specification-first-principle) 🔭[DZone](https://dzone.com/articles/boost-efficiency-with-specification-first-principle) |
 | Kafka streams for simple merging   | 💻[GitHub](https://github.com/DrSequence/kstreams-contest) 👨‍🎓[Hackernoon](https://app.hackernoon.com/stats/real-time-tricks-harnessing-kafka-streams-for-seamless-data-tasks) 🔭[DZone](https://dzone.com/articles/harnessing-kafka-streams-for-seamless-data-tasks) |
