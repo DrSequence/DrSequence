@@ -55,5 +55,4 @@
 </p>
 
 ### Articles soon:
-**Caching**
 **Tracing**
