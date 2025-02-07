@@ -23,6 +23,12 @@
 👨‍🎓 ENG [Go Lang workshop, developers lab, ME](https://developers-lab.me/kurs/go-lang-workshop/)  
 🎦 RU [Techtrain 2024. Effective load testing with Yandex.Tank](https://techtrain.ru/talks/0f2d4a166d0d45b4a12f2f4aaafcb9d4)
 
+
+**2025**
+| Title               | Link                            |
+|---------------------|---------------------------------|
+| Control Your Services With OTEL, Jaeger, and Prometheus  | 💻[GitHub](https://github.com/cranes-mentoring/obs-contest) 🔭[DZone](https://dzone.com/articles/control-services-otel-jaeger-prometheus)|
+
 **2024**
 | Title               | Link                            |
 |---------------------|---------------------------------|
@@ -53,6 +59,3 @@
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" width="36" height="36" alt="AWS" /></a>
 </p>
-
-### Articles soon:
-**Tracing**
