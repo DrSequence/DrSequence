@@ -27,6 +27,7 @@
 **2025**
 | Title               | Link                            |
 |---------------------|---------------------------------|
+| Reliable Protection of User Data: Hashing and Obfuscation  | 👨‍🎓[Hackernoon](https://hackernoon.com/reliable-protection-of-user-data-hashing-and-obfuscation) |
 | Control Your Services With OTEL, Jaeger, and Prometheus  | 💻[GitHub](https://github.com/cranes-mentoring/obs-contest) 🔭[DZone](https://dzone.com/articles/control-services-otel-jaeger-prometheus)|
 
 **2024**
