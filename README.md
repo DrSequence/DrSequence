@@ -18,6 +18,7 @@ Hi there 👋, I'm Ilia, Lead Software Engineer.<br>🔭 I have 7+ experience in
 **2025**
 | Title               | Link                            |
 |---------------------|---------------------------------|
+| Yet Another Servers in Go: Understanding epoll, kqueue, and netpoll  | 🔭[DZone](https://dzone.com/articles/go-servers-understanding-epoll-kqueue-netpoll)|
 | Docs That Write Themselves: Scaling With gRPC and Protobuf  | 🔭[DZone](https://dzone.com/articles/grpc-and-docs)|
 | Reliable Protection of User Data: Hashing and Obfuscation  | 👨‍🎓[Hackernoon](https://hackernoon.com/reliable-protection-of-user-data-hashing-and-obfuscation) |
 | Control Your Services With OTEL, Jaeger, and Prometheus  | 💻[GitHub](https://github.com/cranes-mentoring/obs-contest) 🔭[DZone](https://dzone.com/articles/control-services-otel-jaeger-prometheus)|
