@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=2">
-  <img alt="Ilia Ivankin — Engineering Manager" src="header-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img alt="Ilia Ivankin — Engineering Manager" src="banner-light.svg" width="100%">
 </picture>
 
 Engineering Manager and full-stack developer with 7+ years in backend (JVM, Go). Leading teams, building services, breaking them under load, writing about what I learn. Currently digging into AI and MLOps.
