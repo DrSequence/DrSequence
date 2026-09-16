@@ -14,28 +14,42 @@ Backend engineer with 7+ years in JVM and Go. Building services, breaking them u
 
 ## Writing
 
-| Year | Title | Read | Code |
-|:----:|-------|------|------|
-| 2025 | Yet Another Servers in Go: epoll, kqueue, and netpoll | [DZone](https://dzone.com/articles/go-servers-understanding-epoll-kqueue-netpoll) | |
-| 2025 | Docs That Write Themselves: Scaling With gRPC and Protobuf | [DZone](https://dzone.com/articles/grpc-and-docs) | |
-| 2025 | Reliable Protection of User Data: Hashing and Obfuscation | [Hackernoon](https://hackernoon.com/reliable-protection-of-user-data-hashing-and-obfuscation) | |
-| 2025 | Control Your Services With OTEL, Jaeger, and Prometheus | [DZone](https://dzone.com/articles/control-services-otel-jaeger-prometheus) | [obs-contest](https://github.com/cranes-mentoring/obs-contest) |
-| 2024 | Choosing the Right Caching Strategy | [DZone](https://dzone.com/articles/choosing-the-right-caching-strategy) · [Hackernoon](https://hackernoon.com/choosing-the-right-caching-strategy) | [cache-contest](https://github.com/cranes-mentoring/cache-contest) |
-| 2024 | Golang Workshop: Building a TODO Service | [Hackernoon](https://hackernoon.com/how-to-build-your-own-todo-list-service-with-golang-and-mongodb) · [DZone](https://dzone.com/articles/build-a-to-do-list-with-mongodb-and-golang) | [golang-workshop](https://github.com/cranes-mentoring/golang-workshop) |
-| 2024 | Spec-First Principles | [Hackernoon](https://hackernoon.com/boosting-development-efficiency-with-the-specification-first-principle) · [DZone](https://dzone.com/articles/boost-efficiency-with-specification-first-principle) | |
-| 2024 | Kafka Streams for Simple Merging | [Hackernoon](https://hackernoon.com/real-time-tricks-harnessing-kafka-streams-for-seamless-data-tasks) · [DZone](https://dzone.com/articles/harnessing-kafka-streams-for-seamless-data-tasks) | [kstreams-contest](https://github.com/DrSequence/kstreams-contest) |
-| 2024 | Golang and Testcontainers | [Medium](https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292) · [Hackernoon](https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped) · [DZone](https://dzone.com/articles/fast-setup-golang-and-testcontainers) | [testcontainer-contest](https://github.com/IliaEre/testcontainer-contest) |
-| 2024 | Outbox and ACID | [Hackernoon](https://hackernoon.com/unlocking-microservices-reliability-with-acid-and-the-outbox-pattern) | [outbox-contest](https://github.com/IliaEre/outbox-contest) |
-| 2023 | Load Testing with Yandex.Tank and ghz | [Medium](https://lookingforere.medium.com/fast-load-testing-with-yandextank-and-ghz-77157bf4a779) · [Hackernoon](https://hackernoon.com/turbocharge-load-testing-yandextank-ghz-combo-for-lightning-fast-code-checks) | [load-test-contest](https://github.com/IliaEre/load-test-contest) |
-| 2023 | Pandora with Yandex.Tank | [Medium](https://medium.com/@lookingforere/yandex-pandora-performance-testing-unleashing-versatility-like-a-swiss-army-knife-12c250f2bff2) · [Hackernoon](https://hackernoon.com/leveraging-yandex-pandora-stress-testing-grpc-and-flatbuffer-services) | |
-| 2023 | Test Your Project! | [Medium](https://lookingforere.medium.com/just-test-your-project-part-1-da33a8b823b4) · [Hackernoon](https://hackernoon.com/just-go-ahead-and-test-your-project-part-1) | |
-| 2023 | Serialization with gRPC and FlatBuffers | [Medium](https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c) · [Hackernoon](https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage) | [serialisation-contest](https://github.com/IliaEre/serialisation-contest) |
+<table>
+  <tr>
+    <td width="50%" valign="top"><sub>2025</sub><br><b>Yet Another Servers in Go: epoll, kqueue, and netpoll</b><br><a href="https://dzone.com/articles/go-servers-understanding-epoll-kqueue-netpoll">DZone</a></td>
+    <td width="50%" valign="top"><sub>2025</sub><br><b>Docs That Write Themselves: Scaling With gRPC and Protobuf</b><br><a href="https://dzone.com/articles/grpc-and-docs">DZone</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><sub>2025</sub><br><b>Reliable Protection of User Data: Hashing and Obfuscation</b><br><a href="https://hackernoon.com/reliable-protection-of-user-data-hashing-and-obfuscation">Hackernoon</a></td>
+    <td width="50%" valign="top"><sub>2025</sub><br><b>Control Your Services With OTEL, Jaeger, and Prometheus</b><br><a href="https://dzone.com/articles/control-services-otel-jaeger-prometheus">DZone</a> · <a href="https://github.com/cranes-mentoring/obs-contest">obs-contest</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><sub>2024</sub><br><b>Choosing the Right Caching Strategy</b><br><a href="https://dzone.com/articles/choosing-the-right-caching-strategy">DZone</a> · <a href="https://hackernoon.com/choosing-the-right-caching-strategy">Hackernoon</a> · <a href="https://github.com/cranes-mentoring/cache-contest">cache-contest</a></td>
+    <td width="50%" valign="top"><sub>2024</sub><br><b>Golang Workshop: Building a TODO Service</b><br><a href="https://hackernoon.com/how-to-build-your-own-todo-list-service-with-golang-and-mongodb">Hackernoon</a> · <a href="https://dzone.com/articles/build-a-to-do-list-with-mongodb-and-golang">DZone</a> · <a href="https://github.com/cranes-mentoring/golang-workshop">golang-workshop</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><sub>2024</sub><br><b>Spec-First Principles</b><br><a href="https://hackernoon.com/boosting-development-efficiency-with-the-specification-first-principle">Hackernoon</a> · <a href="https://dzone.com/articles/boost-efficiency-with-specification-first-principle">DZone</a></td>
+    <td width="50%" valign="top"><sub>2024</sub><br><b>Kafka Streams for Simple Merging</b><br><a href="https://hackernoon.com/real-time-tricks-harnessing-kafka-streams-for-seamless-data-tasks">Hackernoon</a> · <a href="https://dzone.com/articles/harnessing-kafka-streams-for-seamless-data-tasks">DZone</a> · <a href="https://github.com/DrSequence/kstreams-contest">kstreams-contest</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><sub>2024</sub><br><b>Golang and Testcontainers</b><br><a href="https://lookingforere.medium.com/one-more-time-about-golang-and-testcontainers-d30a50e11292">Medium</a> · <a href="https://hackernoon.com/express-setup-golang-and-testcontainers-unwrapped">Hackernoon</a> · <a href="https://dzone.com/articles/fast-setup-golang-and-testcontainers">DZone</a> · <a href="https://github.com/IliaEre/testcontainer-contest">testcontainer-contest</a></td>
+    <td width="50%" valign="top"><sub>2024</sub><br><b>Outbox and ACID</b><br><a href="https://hackernoon.com/unlocking-microservices-reliability-with-acid-and-the-outbox-pattern">Hackernoon</a> · <a href="https://github.com/IliaEre/outbox-contest">outbox-contest</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><sub>2023</sub><br><b>Load Testing with Yandex.Tank and ghz</b><br><a href="https://lookingforere.medium.com/fast-load-testing-with-yandextank-and-ghz-77157bf4a779">Medium</a> · <a href="https://hackernoon.com/turbocharge-load-testing-yandextank-ghz-combo-for-lightning-fast-code-checks">Hackernoon</a> · <a href="https://github.com/IliaEre/load-test-contest">load-test-contest</a></td>
+    <td width="50%" valign="top"><sub>2023</sub><br><b>Pandora with Yandex.Tank</b><br><a href="https://medium.com/@lookingforere/yandex-pandora-performance-testing-unleashing-versatility-like-a-swiss-army-knife-12c250f2bff2">Medium</a> · <a href="https://hackernoon.com/leveraging-yandex-pandora-stress-testing-grpc-and-flatbuffer-services">Hackernoon</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><sub>2023</sub><br><b>Test Your Project!</b><br><a href="https://lookingforere.medium.com/just-test-your-project-part-1-da33a8b823b4">Medium</a> · <a href="https://hackernoon.com/just-go-ahead-and-test-your-project-part-1">Hackernoon</a></td>
+    <td width="50%" valign="top"><sub>2023</sub><br><b>Serialization with gRPC and FlatBuffers</b><br><a href="https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c">Medium</a> · <a href="https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage">Hackernoon</a> · <a href="https://github.com/IliaEre/serialisation-contest">serialisation-contest</a></td>
+  </tr>
+</table>
 
 ## Stats
 
 <a href="https://github.com/DrSequence">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrSequence&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="150" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrSequence&theme=transparent" height="170" alt="GitHub stats">
 </a>
 <a href="https://github.com/DrSequence">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSequence&theme=transparent&hide_border=true&layout=compact&hide_title=true" height="150" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DrSequence&theme=transparent" height="170" alt="Most used languages">
 </a>
