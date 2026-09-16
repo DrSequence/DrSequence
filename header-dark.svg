@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Ilia Ivankin — Lead Software Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Ilia Ivankin — Engineering Manager">
   <rect width="900" height="200" rx="12" fill="#0d1117"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <text x="48" y="58" font-size="15" fill="#3fb950">~/ilia-ivankin</text>
     <text x="48" y="108" font-size="40" font-weight="700" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Ilia Ivankin</text>
-    <text x="48" y="140" font-size="17" fill="#8b949e">Lead Software Engineer · Backend · JVM &amp; Go</text>
+    <text x="48" y="140" font-size="17" fill="#8b949e">Engineering Manager · Full-stack · JVM &amp; Go</text>
     <text x="48" y="168" font-size="13" fill="#8b949e">UK · @CranesTeam · writing, mentoring, load testing</text>
   </g>
   <g stroke="#3fb950" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.9">

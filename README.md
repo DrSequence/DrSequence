@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img alt="Ilia Ivankin — Lead Software Engineer" src="header-light.svg" width="100%">
+  <img alt="Ilia Ivankin — Engineering Manager" src="header-light.svg" width="100%">
 </picture>
 
-Backend engineer with 7+ years in JVM and Go. Building services, breaking them under load, writing about what I learn. Currently digging into AI and MLOps.
+Engineering Manager and full-stack developer with 7+ years in backend (JVM, Go). Leading teams, building services, breaking them under load, writing about what I learn. Currently digging into AI and MLOps.
 
 [LinkedIn](https://linkedin.com/in/ilia-iv-er) · [Medium](https://medium.com/@msdrsequence) · [Hackernoon](https://hackernoon.com/u/mrdrseq) · [DZone](https://dzone.com/users/5146776/crns.html) · [LeetCode](https://leetcode.com/SomeEPersonLikeMe/) · [Mentoring on ADPList](https://adplist.org/mentors/ilya-ivankin)
 
@@ -44,12 +44,3 @@ Backend engineer with 7+ years in JVM and Go. Building services, breaking them u
     <td width="50%" valign="top"><sub>2023</sub><br><b>Serialization with gRPC and FlatBuffers</b><br><a href="https://medium.com/@lookingforere/json-vs-proto-grpc-vs-flatbuffer-speed-showdown-for-mobile-app-backends-e3972074c35c">Medium</a> · <a href="https://hackernoon.com/flutbuffers-in-2024-can-we-recreate-old-success-performance-optimization-takes-center-stage">Hackernoon</a> · <a href="https://github.com/IliaEre/serialisation-contest">serialisation-contest</a></td>
   </tr>
 </table>
-
-## Stats
-
-<a href="https://github.com/DrSequence">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrSequence&theme=transparent" height="170" alt="GitHub stats">
-</a>
-<a href="https://github.com/DrSequence">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DrSequence&theme=transparent" height="170" alt="Most used languages">
-</a>
